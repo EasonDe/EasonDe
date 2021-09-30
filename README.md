@@ -2,8 +2,8 @@
 - 👀 Backend Engineer
 - 🌱 Development & Operations
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonDe&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
+[![EasonDe's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonDe&show_icons=true&count_private=true&theme=blueberry)](https://github.com/EasonDe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonDe&layout=compact&count_private=true&theme=blueberry)](https://github.com/EasonDe)
 
 <!---
 EasonDe/EasonDe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
